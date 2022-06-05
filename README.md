@@ -7,7 +7,7 @@
 <!-- Here are some ideas to get you started: -->
 # 💫About Me :
 - 🔭 I’m currently working on Fiverr As A Transcriptionist And Graphic Designer
-- 🌱 I’m currently learning Many Things :)
+- 🌱 I’m currently learning Many Things 😄
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Backend Development 
 - 💬 Ask me about Freelancing Or Any Sort Of Tech Related Stuff
