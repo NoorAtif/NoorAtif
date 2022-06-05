@@ -17,5 +17,6 @@
 
 # 🌐Connect With Me :
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noor-atif-24a58b170/)  [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?.svg?logo=fiverr&logoColor=white)](https://www.fiverr.com/users/nooratif22) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Stunning-Actuary-256) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/NoorAtif18)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoorAtif&theme=dark&show_icons=true)
+   
+# 📊GitHub Stats :
+![Noor's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoorAtif&theme=dark&show_icons=true)
