@@ -8,7 +8,7 @@
 # 💫About Me :
 - 🔭 I’m currently working on Fiverr As A Transcriptionist And Graphic Designer
 - 🌱 I’m currently learning Many Things 😄
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Fiverr
 - 🤔 I’m looking for help with Backend Development 
 - 💬 Ask me about Freelancing Or Any Sort Of Tech Related Stuff
 - 📫 How to reach me:  [Twitter - @NoorAtif18](https://twitter.com/NoorAtif18) , [LinkedIn - Noor Atif](https://www.linkedin.com/in/noor-atif-24a58b170/)
