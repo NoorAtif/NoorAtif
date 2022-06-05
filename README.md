@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Freelancing Or Any Sort Of Tech Related Stuff
 - 📫 How to reach me:  [Twitter - @NoorAtif18](https://twitter.com/NoorAtif18) , [LinkedIn - Noor Atif](https://www.linkedin.com/in/noor-atif-24a58b170/)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I Love Cooking And Sports 
+- ⚡ Fun fact: I Love Cooking And Playing Outdoor Games 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoorAtif&theme=dark&show_icons=true)
