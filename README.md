@@ -20,4 +20,4 @@
    
 # 📊GitHub Stats :
  ![Noor's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoorAtif&theme=dark&show_icons=true)
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NoorAtif&theme=dark&show&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NoorAtif&theme=dark&show&include_all_commits=false&count_private=false&layout=compact)
