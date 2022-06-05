@@ -21,3 +21,6 @@
 # 📊GitHub Stats :
  ![Noor's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoorAtif&theme=dark&show_icons=true)
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NoorAtif&theme=dark&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=NoorAtif&icon=0&color=1)](https://visitcount.itsvg.in)
