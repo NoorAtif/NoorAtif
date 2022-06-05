@@ -16,6 +16,6 @@
 - ⚡ Fun fact: I Love Cooking And Playing Outdoor Games 
 
 # 🌐Connect With Me :
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noor-atif-24a58b170/) [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?.svg?logo=fiverr&logoColor=white)](https://www.fiverr.com/users/nooratif22)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noor-atif-24a58b170/) [![Fiverr] (https://img.shields.io/badge/Fiverr-1DBF73?.svg?logo=fiverr&logoColor=white)](https://www.fiverr.com/users/nooratif22)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoorAtif&theme=dark&show_icons=true)
