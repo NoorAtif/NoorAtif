@@ -1,4 +1,4 @@
-### Hi there 👋 I am Noor Atif
+### Hi There 👋 I am Noor Atif
 
 <!--
 **NoorAtif/NoorAtif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,7 +7,7 @@
 <!-- Here are some ideas to get you started: -->
 # 💫About Me :
 - 🔭 I’m currently working on Fiverr As A Transcriptionist And Graphic Designer
-- 🌱 I’m currently learning Many Things 😄
+- 🌱 I’m currently exploring Full Stack Web Development 😄
 - 👯 I’m looking to collaborate on Fiverr
 - 🤔 I’m looking for help with Backend Development 
 - 💬 Ask me about Freelancing Or Any Sort Of Tech Related Stuff
