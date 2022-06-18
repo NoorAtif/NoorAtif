@@ -7,9 +7,8 @@
 <!-- Here are some ideas to get you started: -->
 # 💫About Me :
 - 🔭 I’m currently working on Fiverr As A Transcriptionist And Graphic Designer
-- 🌱 I’m currently exploring Full Stack Web Development 😄
+- 🌱 I’m currently exploring Web Development & Designing
 - 👯 I’m looking to collaborate on Fiverr
-- 🤔 I’m looking for help with Backend Development 
 - 💬 Ask me about Freelancing Or Any Sort Of Tech Related Stuff
 - 📫 How to reach me:  [Twitter - @NoorAtif18](https://twitter.com/NoorAtif18) , [LinkedIn - Noor Atif](https://www.linkedin.com/in/noor-atif-24a58b170/)
 - 😄 Pronouns: She/Her
